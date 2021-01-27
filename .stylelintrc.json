@@ -22,6 +22,7 @@
     "function-calc-no-invalid": null,
     "font-family-no-missing-generic-family-keyword": null,
     "function-calc-no-unspaced-operator": null,
-    "no-extra-semicolons": null
+    "no-extra-semicolons": null,
+    "selector-max-id": null
   }
 }
